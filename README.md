@@ -13,3 +13,5 @@ Connect as 6th player - you won't be able to move, you will be able to see BOTH 
 Bots - You can set those 5 difficulties: Null (spawn standing afk) Intro (moves after 15 mins) Easy / medium / DOOM (no passives just very good AI)<br>
 Any skin in custom - You can use ANY SKIN ex KING KOOPA RAMUMUS which was avaiable only for BETA TESTERS of LEAGUE (AVAIABLE ONLY FOR CHAMPIONS THAT ARE SELECTABLE AS BOTS)<br>
 Editing your stats & ranked stats - visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage <br>.
+Chat Restriction - you can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares? <br>
+
