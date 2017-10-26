@@ -14,4 +14,10 @@ Bots - You can set those 5 difficulties: Null (spawn standing afk) Intro (moves 
 Any skin in custom - You can use ANY SKIN ex KING KOOPA RAMUMUS which was avaiable only for BETA TESTERS of LEAGUE (AVAIABLE ONLY FOR CHAMPIONS THAT ARE SELECTABLE AS BOTS)<br>
 Editing your stats & ranked stats - visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage <br>.
 Chat Restriction - you can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares? <br>
-
+No Leave Buster - delete rcp-be-lol-leaver-buster from lobby and matchmaking.<br>
+Kick players from club - Kicks players from club u do not own, you can even kick officers, you cannot kick creator. <br>
+Custom Game - lets you be 2nd owner of custom game - you can kick / add bots, you cannot be kicked.<br>
+Pick while locked - Lets you change your champion when you already locked - doesnt work with baning game mode so only blind pick <br>
+See enemies at ARAM - still working.<br>
+Team Boost - if ur account has 150? (not sure) rp - you can activate TEAM BOOST - all ur players get random skin unlocked + if u win bonus ip (any Q) <br>
+Role protection - basicaly you get protection from getting auto filled so you can play ur role. <br>
