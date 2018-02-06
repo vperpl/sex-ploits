@@ -21,3 +21,5 @@ Pick while locked - Lets you change your champion when you already locked - does
 See enemies at ARAM - still working.<br>
 Team Boost - if ur account has 150? (not sure) rp - you can activate TEAM BOOST - all ur players get random skin unlocked + if u win bonus ip (any Q) <br>
 Role protection - basicaly you get protection from getting auto filled so you can play ur role. <br>
+Refund Exploit - places 1 consumable items in a ward slot - lets you use that forever (infinite potions, doesnt work for cleptomancy gold consumables (u cant use them) works for +1 stat point potion thou (if lucky u can be lvl 18 with lvl 3 champion)
+
