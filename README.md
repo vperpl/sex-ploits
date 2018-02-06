@@ -2,9 +2,9 @@
 
 Known & working exploits to me. <br>
 <br>
-Shop exploit - lets you connect to any players shop with just his nickname. <br>
+[[Shop exploit]] - lets you connect to any players shop with just his nickname. <br>
 Multiple games at once - lets you play up to 3 games at the same time. Wining grants you triple exp, triple ip, and AFK ban. <br>
-Spectator Mode [Semi Fog of war] - Lets you watch the game without delay.
+Spectator Mode [Semi Fog of war] - Lets you watch the game without delay. <br>
 Dev Mode - Lets you play tutorials with friends - 5v5 (player 1, left team top player, will be forced to be ashe/garen/ryze, but will have stat boosts +20 to all stats, opposite team gets all stats reduced). <br>
 Lobby - Let's you play any gamemode in any map/q <br>
 Practice Tool - You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
