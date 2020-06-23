@@ -24,7 +24,6 @@ List of all Exploits I am/have been using to show that Riot can't code shit. <br
 **Role protection** - basicaly you get protection from getting auto filled so you can play ur role. <br>
 **Refund Exploit** - places 1 consumable items in a ward slot - lets you use that forever (infinite potions, doesnt work for cleptomancy gold consumables (u cant use them) works for +1 stat point potion thou (if lucky u can be lvl 18 with lvl 3 champion)<br>
 **ARAM EXPLOIT** - boosts arams to gain 200 / 100 Blue Essence / Random Skin & little extra experience boost without eating your RP.<br>
-<br><br>
 **Summoner's Rift Global Spells** - Makes your spells global, meaning for ex. Poppy can hit all enemy champions even in fountain.<br>
 <br><br>
 **???** - ???<br>
