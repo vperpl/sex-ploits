@@ -34,6 +34,7 @@ Obsidian <br>
 Fantome <br>
 https://github.com/frostycpu/FinalesFunkeln [League of Legends\RADS\projects\league_client\releases\0.0.0.117\deploy
 system.yaml]<br>
-Charles (use proxifier)/ Fiddler (hexedit leagueClient replace --no-proxy  with  00 hex -> now can log client data with fiddler) Wooxy<br>
+Charles (use proxifier)/ Fiddler (hexedit leagueClient replace --no-proxy  with  00 hex -> now can log client data with fiddler)<br>
+Wooxy<br>
 JPEXS FLash Decompiler <br><br>
 **===========================**<br><br>
