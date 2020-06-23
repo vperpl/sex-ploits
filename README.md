@@ -1,12 +1,13 @@
 # sex-ploits
 
-Known & working exploits to me. <br>
+List of all Exploits I am/have been using to show that Riot can't code shit. <br>
 <br>
 **Shop exploit** - lets you connect to any players shop with just his nickname. <br>
 **Multiple games at once** - lets you play up to 3 games at the same time. Wining grants you triple exp, triple ip, and AFK ban. <br>
 **Spectator Mode [Semi Fog of war]** - Lets you watch the game without delay. <br>
 **Dev Mode** - Lets you play tutorials with friends - 5v5 (player 1, left team top player, will be forced to be ashe/garen/ryze, but will have stat boosts +20 to all stats, opposite team gets all stats reduced). <br>
 **Lobby** - Let's you play any gamemode in any map/q <br>
+**Old Ash Q** - Playing as Ashe, adds her Q passive to other players/turrets changing their skills ex. azir auto attacks becoming his passive (places turrets everywhere on the map)<br>
 **Practice Tool** - You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
 **Cross Gifting** - You can gift to anyone in any server as long as it is [Riot server] ex. NA can gift to EUNE player without 24h delay as long as he has correct amount of RP. <br>
 **Connect as 6th player** - you won't be able to move, you will be able to see BOTH teammates vision. Players can't see you, you can't chat - YOU CAN BUY ITEMS!!!!!! You won't get any rewards but the purpose of this is different right? :) <br>
@@ -24,8 +25,14 @@ Known & working exploits to me. <br>
 **Refund Exploit** - places 1 consumable items in a ward slot - lets you use that forever (infinite potions, doesnt work for cleptomancy gold consumables (u cant use them) works for +1 stat point potion thou (if lucky u can be lvl 18 with lvl 3 champion)<br>
 **ARAM EXPLOIT** - boosts arams to gain 200 / 100 Blue Essence / Random Skin & little extra experience boost without eating your RP.<br>
 <br><br>
+**Summoner's Rift Global Spells** - Makes your spells global, meaning for ex. Poppy can hit all enemy champions even in fountain.<br>
+<br><br>
+**???** - ???<br>
+<br><br>
 **===========================**<br><br>
 Tools used:<br>
+Obsidian <br>
+Fantome <br>
 https://github.com/frostycpu/FinalesFunkeln [League of Legends\RADS\projects\league_client\releases\0.0.0.117\deploy
 system.yaml]<br>
 Charles (use proxifier)/ Fiddler (hexedit leagueClient replace --no-proxy  with  00 hex -> now can log client data with fiddler) Wooxy<br>
