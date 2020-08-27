@@ -27,9 +27,10 @@ List of all Exploits I am/have been using to show that Riot can't code shit. <br
 **Summoner's Rift Global Spells** - Makes your spells global, meaning for ex. Poppy can hit all enemy champions even in fountain.<br>
 **Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players yes) - to farm free emotes & skin shards per game.<br>
 **Surrender Exploit** - You start surrender vote for your team, but you win game if all 5 players vote yes (forces enemy nexus to boom) [DJ SONA / Spirit guard udyr / Yone only]<br>
+**Crash Client Exploit** - [Requires 125rp? not sure.] Basicaly you spam failed gift requests to target, since its HTTP POST thread, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.<br>
 
 <br><br>
-**???*** - ???<br>
+**???** - ???<br>
 <br><br>
 
 **===========================**<br><br>
