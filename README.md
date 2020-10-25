@@ -29,6 +29,7 @@ List of all Exploits I am/have been using to show that Riot can't code shit. <br
 **Surrender Exploit** - You start surrender vote for your team, but you win game if all 5 players vote yes (forces enemy nexus to boom) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Crash Client Exploit** - [Requires 125rp? not sure.] Basicaly you spam failed gift requests to target, since its HTTP POST thread, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.<br>
 **Tahm Kench** - [Global W] You can eat any object [w] from fountain. Best skarner ultimate (R), then TAHM eats him to kill fed as fuck tank sion in fountain.<br>
+**Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get lvl 30 then sell it so client can namechange for free: https://tr.op.gg/summoner/userName=d201daec-9524-4864-98af-1296b7b2912b <br>
 
 <br><br>
 **???** - ???<br>
