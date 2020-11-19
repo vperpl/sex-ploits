@@ -31,6 +31,13 @@ List of all Exploits I am/have been using to show that Riot can't code shit. <br
 **Tahm Kench** - [Global W] You can eat any object [w] from fountain. Best skarner ultimate (R), then TAHM eats him to kill fed as fuck tank sion in fountain.<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get lvl 30 then sell it so client can namechange for free: https://tr.op.gg/summoner/userName=d201daec-9524-4864-98af-1296b7b2912b <br>
 **Missions/Pass Exploit** - Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
+**Gold Exploit** - Need lvl 13 in game - you buy control ward,then buy stirring wardstone sell stone undo twice and you end up with the ward again then you buy stone
+and the ward doesn't go away and you get 700 gold back, keep items, wp riot new items pog<br>[check J# discord for videos]<br>
+**Teemo Exploitt** - Buy dusk,kill anything with dusk while invisible, go back, sell dusk, you are invisible all the time, nobody sees you.<br>
+[Check janna# announcements for videos]<br>
+**TBA** - TBA<br>
+
+
 
 <br><br>
 **???** - ???<br>
