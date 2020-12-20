@@ -35,7 +35,7 @@ List of all Exploits I am/have been using to show that Riot can't code shit. <br
 and the ward doesn't go away and you get 700 gold back, keep items, wp riot new items pog<br>[check J# discord for videos]<br>
 **Teemo Exploitt** - Buy dusk,kill anything with dusk while invisible, go back, sell dusk, you are invisible all the time, nobody sees you.<br>
 [Check janna# announcements for videos]<br>
-**Ranked Exploit** - Ye this shit works again XD you just need ***** censored on request. Lets you play rankeds with your friends (5vs5 custom) and you gain/loose LP XDDD well played riot  - tested on 25.11.2020<br>
+**Ranked Exploit** - Ye this shit works again XD you just need ***** censored on request. Lets you play rankeds with your friends (5vs5 custom) and you gain/loose LP XDDD well played riot  - tested on 21.12.2020 || Selling this 200€ dm on dc.<br>
 **TBA** - TBA<br>
 
 
