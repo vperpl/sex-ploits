@@ -3,7 +3,7 @@
 List of all Exploits I am/have been using to show that Riot can't code shit. <br>
 <br>
 
-**Working**
+<h1>**Working**</h1>
 **Shop exploit** - lets you connect to any players shop with just his nickname. <br>
 **Multiple games at once** - lets you play up to 3 games at the same time. Wining grants you triple exp, triple ip, and AFK ban. <br>
 **Spectator Mode [Semi Fog of war]** - Lets you watch the game without delay. <br>
@@ -28,7 +28,7 @@ List of all Exploits I am/have been using to show that Riot can't code shit. <br
 **Ranked Exploit** - Ye this shit works again XD you just need ***** censored on request. Lets you play rankeds with your friends (5vs5 custom) and you gain/loose LP XDDD well played riot  - tested on 21.12.2020 || Selling this 200€ dm on dc.<br>
 
 
-**Patched**
+<h2>**Patched**</h2>
 **Old Ash Q** - Playing as Ashe, adds her Q passive to other players/turrets changing their skills ex. azir auto attacks becoming his passive (places turrets everywhere on the map)<br>
 **Connect as 6th player** - you won't be able to move, you will be able to see BOTH teammates vision. Players can't see you, you can't chat - YOU CAN BUY ITEMS!!!!!! You won't get any rewards but the purpose of this is different right? :) <br>
 **No Leave Buster** - delete rcp-be-lol-leaver-buster from lobby and matchmaking.<br>
