@@ -52,7 +52,8 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 
 **TBA** - TBA<br>
 
-Most of them actually works. Dunno what to say, Rito, Trusted Indie company.
+Most of them actually works. Dunno what to say, Rito, Trusted Indie Company.<br>
+12 years of experience; yet they still can't do proper client...<br>
 
 <br><br>
 **???** - ???<br>
