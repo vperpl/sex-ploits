@@ -21,7 +21,7 @@ List of all Exploits I am/have been using to show that Riot can't code shit. <br
 **See enemies at ARAM** - c`mun riot /v3 and you still didnt fix this shit?<br>
 **Team Boost** - if ur account has 150? (not sure) rp - you can activate TEAM BOOST - all ur players get random skin unlocked + if u win bonus ip (any Q) <br>
 **Role protection** - basicaly you get protection from getting auto filled so you can play ur role<br>
-**ARAM EXPLOIT** - boosts arams to gain 200 / 100 Blue Essence / Random Skin & little extra experience boost without eating your RP.<br>
+**ARAM EXPLOIT** - Download at our discord | Boosts aram 200BE + 1 random skin for a game without RP<br>
 **Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players yes) - to farm free emotes & skin shards per game.<br>
 **Surrender Exploit** - You start surrender vote for your team, but you win game if all 5 players vote yes (forces enemy nexus to boom) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Crash Client Exploit** - [Requires 125rp? not sure.] Basicaly you spam failed gift requests to target, since its HTTP POST thread, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.<br>
