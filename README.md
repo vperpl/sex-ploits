@@ -1,4 +1,4 @@
-# sex-ploits
+# sex-ploits - JannaSharp_Owner: yo
 
 List of all Exploits I am/have been using to show that Riot can't code shit. <br>
 <br>
