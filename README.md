@@ -29,6 +29,8 @@ List of all Exploits I am/have been using to show that Riot can't code shit. <br
 **Missions/Pass Exploit** - Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
 **Ranked Exploit** - Ye this shit works again XD you just need ***** censored on request. Lets you play rankeds with your friends (5vs5 custom) and you gain/loose LP XDDD well played riot  - tested on 21.12.2020 || Selling this 200€ dm on dc.<br>
 **Crash Anyone** - Make someone suffer - disable his client, won't be able to play shit as long as you want.<br>
+**Premade Exploit** - Go into Ranked SOLO-Q as 5 men premade<br>
+
 
 
 <h2>**Patched**</h2><br>
