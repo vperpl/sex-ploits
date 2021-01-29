@@ -34,6 +34,7 @@ Riot Blasto now i understand why you quit the job.
 **Ranked Exploit** - Ye this shit works again XD you just need ***** censored on request. Lets you play rankeds with your friends (5vs5 custom) and you gain/loose LP XDDD well played riot  - tested on 21.12.2020 || Selling this 200€ dm on dc.<br>
 **Crash Anyone** - Make someone suffer - disable his client, won't be able to play shit as long as you want.<br>
 **Premade Exploit** - Go into Ranked SOLO-Q as 5 men premade<br>
+**RP Exploit** - buy rp for free 0 real information needed. 7200rp for free. literally. it's not carding like some dumb idiots say to you ha tru Vandrils wannabes<br>
 
 
 
