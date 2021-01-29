@@ -4,7 +4,7 @@ Hello.<br>
 Why suddenly we started to butt in riot and hurt streamers? it is because we got ignored. riot mirage blocked me on dm when I literally have him the method and a way to fix their client. packman ignores everything that is not script relates. support team in riots tickets is just a joke full of meme humanoids bots.
 <br> Riot didn't want a nice behind the scene fix. So now enjoy swarm of tickets since I released most broken exploits to the public.
 <br> Next time just learn to read Riot.<br>
-<br>
+<br>wrote via 📲 so it autocorrected few words...
 <h1>**Working**</h1><br>
 
 
