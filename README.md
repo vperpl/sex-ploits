@@ -1,12 +1,9 @@
-# sex-ploits - Hello Kids
+# sex-ploits - 30.01.2021
 <br>
 Hello.<br>
-Why suddenly we started to butt in riot and hurt streamers? it is because we got ignored. riot mirage blocked me on dm when I literally gave him the method and a way to fix their client. packman ignores everything that is not script related. support team in riots tickets is just a joke full of meme humanoids bots.
-<br> Riot didn't want a nice behind the scene fix. So now enjoy swarm of tickets since I released most broken exploits to the public.
-<br> Next time just learn to read Riot.<br><br>
-High respect for you Riot Evil Kiwi/Jalapeno you are like the only rioter that actually cares.<br>
-Riot Blasto now i understand why you quit the job.
-<br>wrote via 📲 so it autocorrected few words...
+Riot Packman reached to us, did amazing giveaway, we are cooperating with him to improve the overall performance of riotgames.<br>
+The shit will slowly be getting patched<br>
+Feel free to join jannasharp.com for the community lulz<br>.
 <h1>**Working**</h1><br>
 
 
