@@ -24,21 +24,17 @@ And others who helped the riot to reach out to us.<br>
 **Bots** - You can set those 5 difficulties: Null (spawn standing afk) Intro (moves after 15 mins) Easy / medium / DOOM<br>
 **Any skin in custom** - You can use ANY SKIN ex KING KOOPA RAMUMUS which was avaiable only for BETA TESTERS of LEAGUE (AVAIABLE ONLY FOR CHAMPIONS THAT ARE SELECTABLE AS BOTS)<br>
 **Editing your stats & ranked stats** - visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage.<br>
-**Chat Restriction** - you can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
 **Pick while locked** - Lets you change your champion when you already locked - doesnt work with baning game mode so only blind pick<br>
 **See enemies at ARAM** - c`mun riot /v3 and you still didnt fix this shit?<br>
 **Team Boost** - if ur account has 150? (not sure) rp - you can activate TEAM BOOST - all ur players get random skin unlocked + if u win bonus ip (any Q) <br>
 **Role protection** - basicaly you get protection from getting auto filled so you can play ur role<br>
 **ARAM EXPLOIT** - Download at our discord | Boosts aram 200BE + 1 random skin for a game without RP<br>
-**Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players yes) - to farm free emotes & skin shards per game.<br>
 **Surrender Exploit** - You start surrender vote for your team, but you win game if all 5 players vote yes (forces enemy nexus to boom) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Crash Client Exploit** - [Requires 125rp? not sure.] Basicaly you spam failed gift requests to target, since its HTTP POST thread, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get lvl 30 then sell it so client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b<br>
 **Missions/Pass Exploit** - Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
-**Ranked Exploit** - Ye this shit works again XD you just need ***** censored on request. Lets you play rankeds with your friends (5vs5 custom) and you gain/loose LP XDDD well played riot  - tested on 21.12.2020 || Selling this 200€ dm on dc.<br>
+
 **Crash Anyone** - Make someone suffer - disable his client, won't be able to play shit as long as you want.<br>
-**Premade Exploit** - Go into Ranked SOLO-Q as 5 men premade<br>
-**RP Exploit** - buy rp for free 0 real information needed. 7200rp for free. literally. it's not carding like some dumb idiots say to you ha tru Vandrils wannabes<br>
 
 
 
@@ -58,7 +54,11 @@ And others who helped the riot to reach out to us.<br>
 and the ward doesn't go away and you get 700 gold back, keep items, wp riot new items pog<br>[check J# discord for videos]<br>
 **Teemo Exploit** - Buy dusk,kill anything with dusk while invisible, go back, sell dusk, you are invisible all the time, nobody sees you.<br>
 [Check janna# announcements for videos]<br>
-
+**Premade Exploit** - Go into Ranked SOLO-Q as 5 men premade<br>
+**RP Exploit** - buy rp for free 0 real information needed. 7200rp for free. literally. it's not carding like some dumb idiots say to you ha tru Vandrils wannabes<br>
+**Ranked Exploit** - Ye this shit works again XD you just need ***** censored on request. Lets you play rankeds with your friends (5vs5 custom) and you gain/loose LP XDDD well played riot  - tested on 21.12.2020 || Selling this 200€ dm on dc.<br>
+**Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players yes) - to farm free emotes & skin shards per game.<br>
+**Chat Restriction** - you can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
 
 
 
