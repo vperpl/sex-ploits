@@ -4,6 +4,13 @@ Hello.<br>
 Riot Packman reached to us, did amazing giveaway, we are cooperating with him to improve the overall performance of riotgames.<br>
 The shit will slowly be getting patched<br>
 Feel free to join jannasharp.com for the community lulz<br>.
+<br>
+Cool Thanks to: <br>
+Switch Blade <br>
+TipicoDev <br>
+TheXanGuy <br>
+And others who helped the riot to reach out to us.<br>
+
 <h1>**Working**</h1><br>
 
 
