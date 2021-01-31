@@ -11,6 +11,20 @@ TipicoDev <br>
 TheXanGuy <br>
 And others who helped the riot to reach out to us.<br>
 
+# sex-ploits - 31.01.2021
+<br>
+Hello.<br>
+Riot Packman reached to us, we are cooperating with Riot to improve the overall security of the RiotGames Services.
+This shit will slowly be getting patched...<br>
+Feel free to join jannasharp.com for the community lulz.<br>
+<br>
+Special Thanks to: <br>
+TheXanGuy <br>
+TipicoDev <br>
+Switch Blade <br>
+Bipai <br>
+And others who helped Riot to reach us out.<br>
+
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name. <br>
