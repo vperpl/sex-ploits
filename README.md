@@ -37,7 +37,7 @@ And others who helped the riot to reach out to us.<br>
 
 
 <h2>**Patched**</h2><br>
-**Old Ashe Q** - Playing as Ashe, adds her Q passive to other players/turrets changing their skills ex. azir auto attacks becoming his passive (places turrets everywhere on the map)<br>
+**Old Ashe Q ** - Playing as Ashe, adds her Q passive to other players/turrets changing their skills ex. azir auto attacks becoming his passive (places turrets everywhere on the map)<br>
 **Connect as a 6th player** - You won't be able to move, you will be able to see BOTH teammates vision. Players can't see you, you can't chat - YOU CAN BUY ITEMS!!!!!! You won't get any rewards but the purpose of this is different right? :) <br>
 **No Leave Buster** - Delete rcp-be-lol-leaver-buster from lobby and matchmaking.<br>
 **Kick players from club** - Kicks players from club u do not own, you can even kick officers, you cannot kick creator. <br>
