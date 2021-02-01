@@ -37,7 +37,7 @@ And others who helped the riot to reach out to us.<br>
 
 
 <h2>**Patched**</h2><br>
-**Old Ashe Q ** - Playing as Ashe, adds her Q passive to other players/turrets changing their skills ex. azir auto attacks becoming his passive (places turrets everywhere on the map)<br>
+**Old Ashe Q** - Playing as Ashe, adds her Q passive to other players/turrets changing their skills ex. azir auto attacks becoming his passive (places turrets everywhere on the map)<br>
 **Connect as a 6th player** - You won't be able to move, you will be able to see BOTH teammates vision. Players can't see you, you can't chat - YOU CAN BUY ITEMS!!!!!! You won't get any rewards but the purpose of this is different right? :) <br>
 **No Leave Buster** - Delete rcp-be-lol-leaver-buster from lobby and matchmaking.<br>
 **Kick players from club** - Kicks players from club u do not own, you can even kick officers, you cannot kick creator. <br>
@@ -54,7 +54,6 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Ranked Exploit** - Ye this shit works again XD you just need ***** censored on request. Lets you play rankeds with your friends (5vs5 custom) and you gain/loose LP XDDD well played riot  - tested on 21.12.2020 || Selling this 200€ dm on dc.<br>
 **Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players) - to farm free emotes & skin shards per game.<br>
 **Chat Restriction** - You can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
-
 
 
 **TBA** - TBA<br>
