@@ -11,20 +11,6 @@ TipicoDev <br>
 TheXanGuy <br>
 And others who helped the riot to reach out to us.<br>
 
-# sex-ploits - 31.01.2021
-<br>
-Hello.<br>
-Riot Packman reached to us, we are cooperating with Riot to improve the overall security of the RiotGames Services.
-This shit will slowly be getting patched...<br>
-Feel free to join jannasharp.com for the community lulz.<br>
-<br>
-Special Thanks to: <br>
-TheXanGuy <br>
-TipicoDev <br>
-Switch Blade <br>
-Bipai <br>
-And others who helped Riot to reach us out.<br>
-
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name. <br>
@@ -38,7 +24,7 @@ And others who helped Riot to reach us out.<br>
 **Any skin in custom** - You can use ANY SKIN ex. King Rammus which was avaiable only for BETA TESTERS of LEAGUE (AVAIABLE ONLY FOR CHAMPIONS THAT ARE SELECTABLE AS BOTS)<br>
 **Editing your stats & ranked stats** - Visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage.<br>
 **Pick while locked** - Lets you change your champion when you already locked - only works in blind pick.<br>
-**See enemies in ARAM** - c`mun riot /v3 and you still didnt fix this shit?<br>
+**See enemies in ARAM** - Lets you see enemy team champions in champ select <br>
 **Team Boost** - You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
 **Role protection** - You get protection from getting auto filled so you can play ur role 100% of the time.<br>
 **ARAM EXPLOIT** - Boosts aram 200BE + 1 random skin for a game without RP<br>
