@@ -30,8 +30,7 @@ And others who helped the riot to reach out to us.<br>
 **Surrender Exploit** - You start a surrender vote for your team, but you win the game if all 5 players vote yes (forces enemy nexus to explode) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get LvL 30 account then sell it so the client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b<br>
 **Missions/Pass Exploit** - Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
-**Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
-
+**Buy champions** - you can buy any champion without loosing blue essence.
 
 
 
@@ -56,7 +55,7 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Dev Mode** - Lets you play tutorial with friends - 5v5 (player 1, left team top player, will be forced to be ashe/garen/ryze, but will have stat boosts +20 to all stats, opposite team gets all stats reduced)<br>
 **Client DoS** - Make someone suffer - disable his client, won't be able to play shit as long as you want.(partialy patched)<br>
 **Crash Client Exploit** - [Requires 125rp] Basicaly you spam failed gift requests to target, since its a HTTP POST request, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.(partialy patched)<br>
-
+**Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
 
 **TBA** - TBA<br>
 
