@@ -31,6 +31,7 @@ And others who helped the riot to reach out to us.<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get LvL 30 account then sell it so the client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b<br>
 **Missions/Pass Exploit** - Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
 **Buy champions** - you can buy any champion without loosing blue essence.
+**Duplication Exploit** - ?????????????????? :)
 
 
 
