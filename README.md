@@ -1,4 +1,4 @@
-# sex-ploits - 30.01.2021
+# sex-ploits - 11.02.2021
 <br>
 Hello.<br>
 Riot Packman reached to us, did amazing giveaway, we are cooperating with him to improve the overall performance of riotgames.<br>
@@ -10,11 +10,16 @@ Switch Blade <br>
 TipicoDev <br>
 TheXanGuy <br>
 And others who helped the riot to reach out to us.<br>
+<br>
+# sex-ploits - 11.02.2021 <br>
+<br>
+
+As you can see, most of the "game breaking things" got patched. <br>
+I hope riot won't ignore anymore tickets to fix those shits. <br>
 
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name. <br>
-**Multiple Games at Once** - Lets you play up to 3 games at the same time. Winning grants you triple EXP, triple BE. <br>
 **Spectator Mode [Semi Fog of war]** - Lets you watch the game without delay. <br>
 **Lobby / Custom Gamemode** - Let's you play any gamemode in any map/q If its present in files (ex butchers bridge is up 27.08.2020) or with any working gamemutator (passives: urf, doombots etc)<br>
 **Practice Tool** - You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
@@ -24,9 +29,8 @@ And others who helped the riot to reach out to us.<br>
 **Editing your stats & ranked stats** - Visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage.<br>
 **Pick while locked** - Lets you change your champion when you already locked - only works in blind pick.<br>
 **See enemies in ARAM** - Lets you see enemy team champions in champ select <br>
-**Team Boost** - You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
+**Aram Boost** - You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
 **Role protection** - You get protection from getting auto filled so you can play ur role 100% of the time.<br>
-**ARAM EXPLOIT** - Boosts aram 200BE + 1 random skin for a game without RP<br>
 **Surrender Exploit** - You start a surrender vote for your team, but you win the game if all 5 players vote yes (forces enemy nexus to explode) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get LvL 30 account then sell it so the client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b<br>
 **Missions/Pass Exploit** - Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
@@ -65,6 +69,10 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Client DoS** - Make someone suffer - disable his client, won't be able to play shit as long as you want.(partialy patched)<br>
 **Crash Client Exploit** - [Requires 125rp] Basicaly you spam failed gift requests to target, since its a HTTP POST request, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.(partialy patched)<br>
 **Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
+**Multiple Games at Once** - Lets you play up to 3 games at the same time. Winning grants you triple EXP, triple BE. <br>
+
+
+
 
 
 **===========================**<br><br>
