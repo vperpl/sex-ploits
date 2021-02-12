@@ -36,6 +36,8 @@ I hope riot won't ignore anymore tickets to fix those shits. <br>
 **Missions/Pass Exploit** - Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
 **Buy champions** - you can buy any champion without loosing blue essence. <br>
 **Duplication Exploit** - duplicates your loot, level 4 - 900 skins accounts & so on. <br>
+**Yasuo Q** - prob works on any champion... (didn't test) instantly charge your Q (1Q for tornado) <br>
+
 
 **TBA** - TBA<br>
 
