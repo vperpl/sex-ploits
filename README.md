@@ -21,18 +21,14 @@ I hope riot won't ignore anymore tickets to fix those shits. <br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name. <br>
 **Spectator Mode [Semi Fog of war]** - Lets you watch the game without delay. <br>
-**Lobby / Custom Gamemode** - Let's you play any gamemode in any map/q If its present in files (ex butchers bridge is up 27.08.2020) or with any working gamemutator (passives: urf, doombots etc)<br>
-**Practice Tool** - You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
 **Cross Gifting** - You can gift to anyone in any server as long as it is a [Riot server] ex. NA can gift to EUNE player without 24h delay as long as he has correct amount of RP<br>
 **Bots** - You can set those 5 difficulties: Null (spawn standing afk) Intro (moves after 15 mins) Easy / medium / DOOM<br>
 **Any skin in custom** - You can use ANY SKIN ex. King Rammus which was avaiable only for BETA TESTERS of LEAGUE (AVAIABLE ONLY FOR CHAMPIONS THAT ARE SELECTABLE AS BOTS)<br>
 **Editing your stats & ranked stats** - Visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage.<br>
-**Pick while locked** - Lets you change your champion when you already locked - only works in blind pick.<br>
 **See enemies in ARAM** - Lets you see enemy team champions in champ select <br>
 **Role protection** - You get protection from getting auto filled so you can play ur role 100% of the time.<br>
 **Surrender Exploit** - You start a surrender vote for your team, but you win the game if all 5 players vote yes (forces enemy nexus to explode) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get LvL 30 account then sell it so the client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b<br>
-**Missions/Pass Exploit** - Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
 **Buy champions** - you can buy any champion without loosing blue essence. <br>
 **Duplication Exploit** - duplicates your loot, level 4 - 900 skins accounts & so on. <br>
 **Yasuo Q** -  instantly charge your Q (1Q for tornado) // works on all stackable skillshots like Ashe Q yone Q... azir W XD etc.<br>
@@ -72,7 +68,10 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
 **Multiple Games at Once** - Lets you play up to 3 games at the same time. Winning grants you triple EXP, triple BE. <br>
 **Aram Boost** - [Patched in 11.4] You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
-
+**Lobby / Custom Gamemode** - [Patched 11.3] Let's you play any gamemode in any map/q If its present in files (ex butchers bridge is up 27.08.2020) or with any working gamemutator (passives: urf, doombots etc)<br>
+**Practice Tool** - [[Patched 11.3] You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
+**Pick while locked** - [Patched 11.4] Lets you change your champion when you already locked - only works in blind pick.<br>
+**Missions/Pass Exploit** - [Partialy patched 11.3] Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
 
 
 
