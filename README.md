@@ -29,7 +29,6 @@ I hope riot won't ignore anymore tickets to fix those shits. <br>
 **Editing your stats & ranked stats** - Visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage.<br>
 **Pick while locked** - Lets you change your champion when you already locked - only works in blind pick.<br>
 **See enemies in ARAM** - Lets you see enemy team champions in champ select <br>
-**Aram Boost** - You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
 **Role protection** - You get protection from getting auto filled so you can play ur role 100% of the time.<br>
 **Surrender Exploit** - You start a surrender vote for your team, but you win the game if all 5 players vote yes (forces enemy nexus to explode) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get LvL 30 account then sell it so the client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b<br>
@@ -72,6 +71,7 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Crash Client Exploit** - [Requires 125rp] Basicaly you spam failed gift requests to target, since its a HTTP POST request, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.(partialy patched)<br>
 **Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
 **Multiple Games at Once** - Lets you play up to 3 games at the same time. Winning grants you triple EXP, triple BE. <br>
+**Aram Boost** - [Patched in 11.4] You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
 
 
 
