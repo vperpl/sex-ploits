@@ -32,6 +32,7 @@ I hope riot won't ignore anymore tickets to fix those shits. <br>
 **Buy champions** - you can buy any champion without loosing blue essence. <br>
 **Duplication Exploit** - duplicates your loot, level 4 - 900 skins accounts & so on. <br>
 **Yasuo Q** -  instantly charge your Q (1Q for tornado) // works on all stackable skillshots like Ashe Q yone Q... azir W XD etc.<br>
+**Draft Bans** -  Lets you ban enemy already picked champion in Draft/Ranked game - If you ban before game starts & if he already picked champion - it makes him dodge the Q<br>
 
 
 **TBA** - TBA<br>
