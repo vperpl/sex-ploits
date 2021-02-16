@@ -72,7 +72,7 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Lobby / Custom Gamemode** - [Patched 11.3] Let's you play any gamemode in any map/q If its present in files (ex butchers bridge is up 27.08.2020) or with any working gamemutator (passives: urf, doombots etc)<br>
 **Practice Tool** - [[Patched 11.3] You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
 **Pick while locked** - [Patched 11.4] Lets you change your champion when you already locked - only works in blind pick.<br>
-**Missions/Pass Exploit** - [Partialy patched 11.3] Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done<br>
+**Missions/Pass Exploit** - [Partialy patched 11.3] Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done + you can ban same champion as already banned (ban x5 teemo)<br>
 
 
 
