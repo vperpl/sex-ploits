@@ -43,8 +43,7 @@ Most of them actually work. Dunno what to say, Rito Small Indie Company?<br>
 12 years of experience; yet they still can't do a proper client...<br>
 
 <br><br>
-**???** - ???<br>
-<br><br>
+**???** - ???
 
 
 <h2>**Patched**</h2><br>
