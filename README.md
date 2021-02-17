@@ -30,7 +30,9 @@ I hope riot won't ignore anymore tickets to fix those shits. <br>
 **Surrender Exploit** - You start a surrender vote for your team, but you win the game if all 5 players vote yes (forces enemy nexus to explode) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get LvL 30 account then sell it so the client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b<br>
 **Buy champions** - you can buy any champion without loosing blue essence. <br>
-**Duplication Exploit** - duplicates your loot, level 4 - 900 skins accounts & so on. <br>
+
+**Duplication Exploit** - duplicates your loot, level 4 - 900 skins accounts & so on. Doesn't work on skin shards that are already mixed (no champion but full skin shard) <br>
+
 **Yasuo Q** -  instantly charge your Q (1Q for tornado) // works on all stackable skillshots like Ashe Q yone Q... azir W XD etc.<br>
 **Draft Bans** -  Lets you ban enemy already picked champion in Draft/Ranked game - If you ban before game starts & if he already picked champion - it makes him dodge the Q<br>
 
