@@ -17,6 +17,13 @@ And others who helped the riot to reach out to us.<br>
 As you can see, most of the "game breaking things" got patched. <br>
 I hope riot won't ignore anymore tickets to fix those shits. <br>
 
+<br><br>
+
+22.02.2021
+Well, we are still using some of them just for the lulz & fun //don't blame me im just a troll anyway. <br><br>
+
+
+
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name. <br>
@@ -30,7 +37,7 @@ I hope riot won't ignore anymore tickets to fix those shits. <br>
 **Surrender Exploit** - You start a surrender vote for your team, but you win the game if all 5 players vote yes (forces enemy nexus to explode) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get LvL 30 account then sell it so the client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b<br>
 **Buy champions** - you can buy any champion without loosing blue essence. <br>
-
+**Aram Boost** - [Patched in 11.4 - bypassed in 11.4] You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
 **Duplication Exploit** - duplicates your loot, level 4 - 900 skins accounts & so on. Doesn't work on skin shards that are already mixed (no champion but full skin shard) <br>
 
 **Yasuo Q** -  instantly charge your Q (1Q for tornado) // works on all stackable skillshots like Ashe Q yone Q... azir W XD etc.<br>
@@ -69,7 +76,6 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Crash Client Exploit** - [Requires 125rp] Basicaly you spam failed gift requests to target, since its a HTTP POST request, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.(partialy patched)<br>
 **Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
 **Multiple Games at Once** - Lets you play up to 3 games at the same time. Winning grants you triple EXP, triple BE. <br>
-**Aram Boost** - [Patched in 11.4] You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
 **Lobby / Custom Gamemode** - [Patched 11.3] Let's you play any gamemode in any map/q If its present in files (ex butchers bridge is up 27.08.2020) or with any working gamemutator (passives: urf, doombots etc)<br>
 **Practice Tool** - [[Patched 11.3] You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
 **Pick while locked** - [Patched 11.4] Lets you change your champion when you already locked - only works in blind pick.<br>
