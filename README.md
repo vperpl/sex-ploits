@@ -21,6 +21,8 @@ I hope riot won't ignore anymore tickets to fix those shits. <br>
 
 22.02.2021
 Well, we are still using some of them just for the lulz & fun //don't blame me im just a troll anyway. <br><br>
+We found day 1 vunerbality in Riot's servers giving us access to do riot' api calls from Administrator rank.<br>
+Thus almost all exploits that got patched, work again ._. <br>
 
 
 
