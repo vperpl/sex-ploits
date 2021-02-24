@@ -54,6 +54,7 @@ Thus almost all exploits that got patched, work again ._. <br>
 **Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players) - to farm free emotes & skin shards per game.<br>
 **Chat Restriction** - You can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
 **Custom Game** - Lets you be the 2nd owner of a custom game - you can kick / add bots, you cannot be kicked.<br>
+**Unban** - Unban automatically banned account<br>
 
 
 **TBA** - TBA<br>
