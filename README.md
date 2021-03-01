@@ -55,6 +55,7 @@ Thus almost all exploits that got patched, work again ._. <br>
 **Chat Restriction** - You can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
 **Custom Game** - Lets you be the 2nd owner of a custom game - you can kick / add bots, you cannot be kicked.<br>
 **Unban** - Unban automatically banned account<br>
+**Honor** - Spam requests to receive keys fragments / honor orbs/ get in 1 day from locked honor 0 to honor lvl 2<br>
 
 
 **TBA** - TBA<br>
