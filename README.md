@@ -45,7 +45,6 @@ Thus almost all exploits that got patched, work again ._. <br>
 **Lobby / Custom Gamemode** - [Patched 11.3] Let's you play any gamemode in any map/q If its present in files (ex butchers bridge is up 27.08.2020) or with any working gamemutator (passives: urf, doombots etc)<br>
 **Practice Tool** - [[Patched 11.3] You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
 **Pick while locked** - [Patched 11.4] Lets you change your champion when you already locked - only works in blind pick.<br>
-**Missions/Pass Exploit** - [Partialy patched 11.3] Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done + you can ban same champion as already banned (ban x5 teemo)<br>
 **Yasuo Q** -  instantly charge your Q (1Q for tornado) // works on all stackable skillshots like Ashe Q yone Q... azir W XD etc.<br>
 **Draft Bans** -  Lets you ban enemy already picked champion in Draft/Ranked game - If you ban before game starts & if he already picked champion - it makes him dodge the Q<br>
 **Premade Exploit** - Go into Ranked SOLO-Q as 5 men premade<br>
@@ -67,7 +66,8 @@ Most of them actually work. Dunno what to say, Rito Small Indie Company?<br>
 **???** - ???
 
 
-<h2>**Patched**</h2><br>
+<h2>**Patched**</h2>
+
 **Old Ashe Q** - Playing as Ashe, adds her Q passive to other players/turrets changing their skills ex. azir auto attacks becoming his passive (places turrets everywhere on the map)<br>
 **Connect as a 6th player** - You won't be able to move, you will be able to see BOTH teammates vision. Players can't see you, you can't chat - YOU CAN BUY ITEMS!!!!!! You won't get any rewards but the purpose of this is different right? :) <br>
 **No Leave Buster** - Delete rcp-be-lol-leaver-buster from lobby and matchmaking.<br>
@@ -83,6 +83,7 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Client DoS** - Make someone suffer - disable his client, won't be able to play shit as long as you want.(partialy patched)<br>
 **Crash Client Exploit** - [Requires 125rp] Basicaly you spam failed gift requests to target, since its a HTTP POST request, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.(partialy patched)<br>
 **Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
+**Missions/Pass Exploit** - [Partialy patched 11.3] Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done + you can ban same champion as already banned (ban x5 teemo)<br>
 
 
 
