@@ -33,7 +33,6 @@ Thus almost all exploits that got patched, work again ._. <br>
 **Cross Gifting** - You can gift to anyone in any server as long as it is a [Riot server] ex. NA can gift to EUNE player without 24h delay as long as he has correct amount of RP<br>
 **Bots** - You can set those 5 difficulties: Null (spawn standing afk) Intro (moves after 15 mins) Easy / medium / DOOM<br>
 **Any skin in custom** - You can use ANY SKIN ex. King Rammus which was avaiable only for BETA TESTERS of LEAGUE (AVAIABLE ONLY FOR CHAMPIONS THAT ARE SELECTABLE AS BOTS)<br>
-**Editing your stats & ranked stats** - Visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage.<br>
 **See enemies in ARAM** - Lets you see enemy team champions in champ select <br>
 **Role protection** - You get protection from getting auto filled so you can play ur role 100% of the time.<br>
 **Surrender Exploit** - You start a surrender vote for your team, but you win the game if all 5 players vote yes (forces enemy nexus to explode) [DJ SONA / Spirit guard udyr / Yone only]<br>
@@ -42,19 +41,17 @@ Thus almost all exploits that got patched, work again ._. <br>
 **Aram Boost** - [Patched in 11.4 - bypassed in 11.4] You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
 **Duplication Exploit** - duplicates your loot, level 4 - 900 skins accounts & so on. Doesn't work on skin shards that are already mixed (no champion but full skin shard) <br>
 **Multiple Games at Once** - Lets you play up to 3 games at the same time. Winning grants you triple EXP, triple BE. <br>
-**Lobby / Custom Gamemode** - [Patched 11.3] Let's you play any gamemode in any map/q If its present in files (ex butchers bridge is up 27.08.2020) or with any working gamemutator (passives: urf, doombots etc)<br>
-**Practice Tool** - [[Patched 11.3] You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
-**Pick while locked** - [Patched 11.4] Lets you change your champion when you already locked - only works in blind pick.<br>
+**Lobby / Custom Gamemode** - [Patched 11.3 - bypassed 11.5] Let's you play any gamemode in any map/q If its present in files (ex butchers bridge is up 27.08.2020) or with any working gamemutator (passives: urf, doombots etc)<br>
 **Yasuo Q** -  instantly charge your Q (1Q for tornado) // works on all stackable skillshots like Ashe Q yone Q... azir W XD etc.<br>
 **Draft Bans** -  Lets you ban enemy already picked champion in Draft/Ranked game - If you ban before game starts & if he already picked champion - it makes him dodge the Q<br>
 **Premade Exploit** - Go into Ranked SOLO-Q as 5 men premade<br>
 **RP Exploit** - Buy RP for free with no real information. 7200rp for free. Literally. It's not carding like some dumb idiots say to you ha tru Vandrils wannabes<br>
-**Ranked Exploit** - Ye this shit works again XD you just need ***** censored on request. Lets you play rankeds with your friends (5vs5 custom) and you gain/loose LP XDDD well played riot  - tested on 21.12.2020 || Selling this 200€ dm on dc.<br>
+**Ranked Exploit** - [11.5 - still works XD] You can play soloQ with 10 friends or flex with 5 :)<br>
 **Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players) - to farm free emotes & skin shards per game.<br>
 **Chat Restriction** - You can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
-**Custom Game** - Lets you be the 2nd owner of a custom game - you can kick / add bots, you cannot be kicked.<br>
 **Unban** - Unban automatically banned account<br>
 **Honor** - Spam requests to receive keys fragments / honor orbs/ get in 1 day from locked honor 0 to honor lvl 2<br>
+**Crash Client Exploit** - [Ressurected in 11.5] Let's crash streamers again <br>
 
 
 **TBA** - TBA<br>
@@ -81,9 +78,13 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 [Check janna# announcements for videos]<br>
 **Dev Mode** - Lets you play tutorial with friends - 5v5 (player 1, left team top player, will be forced to be ashe/garen/ryze, but will have stat boosts +20 to all stats, opposite team gets all stats reduced)<br>
 **Client DoS** - Make someone suffer - disable his client, won't be able to play shit as long as you want.(partialy patched)<br>
-**Crash Client Exploit** - [Requires 125rp] Basicaly you spam failed gift requests to target, since its a HTTP POST request, it stacks when he is in game. Meaning you will crash his client if you spam too many, resulting in bugsplat (game closes) All you need to do is have him in your friendlist.(partialy patched)<br>
 **Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
-**Missions/Pass Exploit** - [Partialy patched 11.3] Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done + you can ban same champion as already banned (ban x5 teemo)<br>
+**Missions/Pass Exploit** - [Patched 11.5] Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done + you can ban same champion as already banned (ban x5 teemo)<br>
+**Editing your stats & ranked stats** - Visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage.<br>
+**Custom Game** - Lets you be the 2nd owner of a custom game - you can kick / add bots, you cannot be kicked.<br>
+**Pick while locked** - [Patched 11.4] Lets you change your champion when you already locked - only works in blind pick.<br>
+**Practice Tool** - [This one still prob works, just 2hard to remove the client-sided flag HumansAllowed:1 without client modding so just moving it here] You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
+
 
 
 
