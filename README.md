@@ -53,6 +53,7 @@ Thus almost all exploits that got patched, work again ._. <br>
 **Honor** - Spam requests to receive keys fragments / honor orbs/ get in 1 day from locked honor 0 to honor lvl 2<br>
 **Crash Client Exploit** - [Ressurected in 11.5] Let's crash streamers again <br>
 **Activate PASS for free** - Ye, don't pay to earn toens, ust activate the stash :3 <br>
+**Crash champion select** - just nuke the game, dont loose LP, or any other Q 🥉 credits to: [katazina#2494] <br>
 
 
 **TBA** - TBA<br>
