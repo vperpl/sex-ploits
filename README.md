@@ -51,9 +51,10 @@ Thus almost all exploits that got patched, work again ._. <br>
 **Chat Restriction** - You can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
 **Unban** - Unban automatically banned account<br>
 **Honor** - Spam requests to receive keys fragments / honor orbs/ get in 1 day from locked honor 0 to honor lvl 2<br>
-**Crash Client Exploit** - [Ressurected in 11.5] Let's crash streamers again <br>
+**Crash Client Exploit** - [Ressurected in 11.5] Let's crash streamers again - tool in discord.<br>
 **Activate PASS for free** - Ye, don't pay to earn toens, ust activate the stash :3 <br>
-**Crash champion select** - just nuke the game, dont loose LP, or any other Q 🥉 credits to: [katazina#2494] <br>
+**Crash champion select** - just nuke the game, dont loose LP, or any other Q 🥉 credits to: [katazina#2494] - tool at dsicord<br>
+**See enemies** - you can see enemies IN GAME real time update + you can see the picks in champion selects (what they pick in ban phase before they lock/their turn comes in)<br>
 
 
 **TBA** - TBA<br>
@@ -79,7 +80,7 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Teemo Exploit** - Buy dusk,kill anything with dusk while invisible, go back, sell dusk, you are invisible all the time, nobody sees you.<br>
 [Check janna# announcements for videos]<br>
 **Dev Mode** - Lets you play tutorial with friends - 5v5 (player 1, left team top player, will be forced to be ashe/garen/ryze, but will have stat boosts +20 to all stats, opposite team gets all stats reduced)<br>
-**Client DoS** - Make someone suffer - disable his client, won't be able to play shit as long as you want.(partialy patched)<br>
+**Client DoS** - Make someone suffer - disable his client, won't be able to play shit as long as you want.(partialy patched - tool at my discord)<br>
 **Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
 **Missions/Pass Exploit** - [Patched 11.5] Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done + you can ban same champion as already banned (ban x5 teemo)<br>
 **Editing your stats & ranked stats** - Visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage.<br>
