@@ -1,30 +1,4 @@
 # sex-ploits - 30.01.2021
-<br>
-Hello.<br>
-Riot Packman reached to us, did amazing giveaway, we are cooperating with him to improve the overall performance of riotgames.<br>
-The shit will slowly be getting patched<br>
-Feel free to join jannasharp.com for the community lulz<br>.
-<br>
-Cool Thanks to: <br>
-Switch Blade <br>
-TipicoDev <br>
-TheXanGuy <br>
-And others who helped the riot to reach out to us.<br>
-<br>
-# sex-ploits - 11.02.2021 <br>
-<br>
-
-As you can see, most of the "game breaking things" got patched. <br>
-I hope riot won't ignore anymore tickets to fix those shits. <br>
-
-<br><br>
-
-22.02.2021
-Well, we are still using some of them just for the lulz & fun //don't blame me im just a troll anyway. <br><br>
-We found day 1 vunerbality in Riot's servers giving us access to do riot' api calls from Administrator rank.<br>
-Thus almost all exploits that got patched, work again ._. <br>
-
-
 
 <h1>**Working**</h1><br>
 
@@ -46,14 +20,12 @@ Thus almost all exploits that got patched, work again ._. <br>
 **Draft Bans** -  Lets you ban enemy already picked champion in Draft/Ranked game - If you ban before game starts & if he already picked champion - it makes him dodge the Q<br>
 **Premade Exploit** - Go into Ranked SOLO-Q as 5 men premade<br>
 **RP Exploit** - Buy RP for free with no real information. 7200rp for free. Literally. It's not carding like some dumb idiots say to you ha tru Vandrils wannabes<br>
-**Ranked Exploit** - [11.5 - still works XD] You can play soloQ with 10 friends or flex with 5 :)<br>
+**Ranked Exploit** - [11.5 - still works XD] You can play soloQ with 10 friends or flex with 5 :) [also custom game as 10 premades (lvl 5 accounts can get rank]<br>
 **Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players) - to farm free emotes & skin shards per game.<br>
 **Chat Restriction** - You can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
-**Unban** - Unban automatically banned account<br>
 **Honor** - Spam requests to receive keys fragments / honor orbs/ get in 1 day from locked honor 0 to honor lvl 2<br>
-**Crash Client Exploit** - [Ressurected in 11.5] Let's crash streamers again - tool in discord.<br>
+**Crash Client Exploit** - [Ressurected in 11.5] Let's crash streamers again - tool in discord.[Semi Patched on EUW/NA]<br>
 **Activate PASS for free** - Ye, don't pay to earn toens, ust activate the stash :3 <br>
-**Crash champion select** - just nuke the game, dont loose LP, or any other Q 🥉 credits to: [katazina#2494] - tool at dsicord<br>
 **See enemies** - you can see enemies IN GAME real time update + you can see the picks in champion selects (what they pick in ban phase before they lock/their turn comes in)<br>
 
 
@@ -87,7 +59,8 @@ and the ward doesn't go away and you get 700 gold back, keep items, wp riot new 
 **Custom Game** - Lets you be the 2nd owner of a custom game - you can kick / add bots, you cannot be kicked.<br>
 **Pick while locked** - [Patched 11.4] Lets you change your champion when you already locked - only works in blind pick.<br>
 **Practice Tool** - [This one still prob works, just 2hard to remove the client-sided flag HumansAllowed:1 without client modding so just moving it here] You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
-
+**Crash champion select** - just nuke the game, dont loose LP, or any other Q 🥉 credits to: [katazina#2494] - tool at dsicord<br>
+**Unban** - Unban automatically banned account<br>
 
 
 
