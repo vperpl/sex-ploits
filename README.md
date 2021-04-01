@@ -37,35 +37,6 @@ Most of them actually work. Dunno what to say, Rito Small Indie Company?<br>
 <br><br>
 **???** - ???
 
-
-<h2>**Patched**</h2>
-
-**Old Ashe Q** - Playing as Ashe, adds her Q passive to other players/turrets changing their skills ex. azir auto attacks becoming his passive (places turrets everywhere on the map)<br>
-**Connect as a 6th player** - You won't be able to move, you will be able to see BOTH teammates vision. Players can't see you, you can't chat - YOU CAN BUY ITEMS!!!!!! You won't get any rewards but the purpose of this is different right? :) <br>
-**No Leave Buster** - Delete rcp-be-lol-leaver-buster from lobby and matchmaking.<br>
-**Kick players from club** - Kicks players from club u do not own, you can even kick officers, you cannot kick creator. <br>
-**Refund Exploit** - Places 1 consumable items in a ward slot - lets you use that forever (infinite potions, doesnt work for cleptomancy gold consumables (u cant use them) works for +1 stat point potion thou (if lucky u can be lvl 18 with lvl 3 champion)<br>
-**Summoner's Rift Global Spells** - Makes your spells global, meaning for ex. Poppy can hit all enemy champions even in fountain.<br>
-**Tahm Kench** - [Global W] You can eat any object [w] from fountain. Best skarner ultimate (R), then TAHM eats him to kill fed as fuck tank sion in fountain.<br>
-**Gold Exploit** - Need LvL 13 in-game - you buy control ward,then buy stirring wardstone sell stone undo twice and you end up with the ward again then you buy stone
-and the ward doesn't go away and you get 700 gold back, keep items, wp riot new items pog<br>[check J# discord for videos]<br>
-**Teemo Exploit** - Buy dusk,kill anything with dusk while invisible, go back, sell dusk, you are invisible all the time, nobody sees you.<br>
-[Check janna# announcements for videos]<br>
-**Dev Mode** - Lets you play tutorial with friends - 5v5 (player 1, left team top player, will be forced to be ashe/garen/ryze, but will have stat boosts +20 to all stats, opposite team gets all stats reduced)<br>
-**Client DoS** - Make someone suffer - disable his client, won't be able to play shit as long as you want.(partialy patched - tool at my discord)<br>
-**Gold Digger Viego** - Kill anyone, sell his item, gain all items at 6th minute with 2/1 kda!<br>
-**Missions/Pass Exploit** - [Patched 11.5] Bored to farm tokens? no problem! spam TFT Tutorial lobby, it counts towards total games. you can surrender in 2-1 so basicaly 4 minutes games = all missions done + you can ban same champion as already banned (ban x5 teemo)<br>
-**Editing your stats & ranked stats** - Visualy client only, other players see it, changes nothing, but you can troll saying you are Riot Mirage.<br>
-**Custom Game** - Lets you be the 2nd owner of a custom game - you can kick / add bots, you cannot be kicked.<br>
-**Pick while locked** - [Patched 11.4] Lets you change your champion when you already locked - only works in blind pick.<br>
-**Practice Tool** - [This one still prob works, just 2hard to remove the client-sided flag HumansAllowed:1 without client modding so just moving it here] You can play 11 vs 11 [more players in any team = infinite champion select] (no, you can't play with players it will say that too many humans, and when u kick urself it will say that at least 1 player is needed). <br>
-**Crash champion select** - just nuke the game, dont loose LP, or any other Q 🥉 credits to: [katazina#2494] - tool at dsicord<br>
-**Unban** - Unban automatically banned account<br>
-
-
-
-
-
 **===========================**<br><br>
 Tools used:<br>
 Obsidian <br>
