@@ -24,7 +24,7 @@ Released League of Legends bypass on discord. <br>
 **Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players) - to farm free emotes & skin shards per game.<br>
 **Chat Restriction** - You can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
 **Honor** - Spam requests to receive keys fragments / honor orbs/ get in 1 day from locked honor 0 to honor lvl 2<br>
-**Crash Client Exploit** - [Ressurected in 11.5] Let's crash streamers again - tool in discord.[Semi Patched on EUW/NA]<br>
+**Crash Client Exploit** - [Ressurected in 11.5] Let's crash streamers again - tool in discord.[Semi Patched on EUW/NA] -as of 11.10 - works only via sendin clash invites<br>
 **Activate PASS for free** - Ye, don't pay to earn toens, ust activate the stash :3 <br>
 **See enemies** - you can see enemies IN GAME real time update + you can see the picks in champion selects (what they pick in ban phase before they lock/their turn comes in) - tested in Darius Jungle Patch 11.8 - literaly picking darius going enemy jungle camping him 24/7 maing kids rage quit from jungle XDDDD (recommended external so you dont get ban risk)<br>
 
