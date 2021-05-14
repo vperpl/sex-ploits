@@ -1,5 +1,6 @@
-# sex-ploits - 02.04.2021
-Released League of Legends bypass on discord. <br>
+# sex-ploits - 15.05.2021
+Cool Fact: <br>
+Riot brought decrypthed packets into scripting community yet again! <br>
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name. <br>
