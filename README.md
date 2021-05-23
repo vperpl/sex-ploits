@@ -11,7 +11,6 @@ Riot brought decrypthed packets into scripting community yet again! <br>
 **See enemies in ARAM** - Lets you see enemy team champions in champ select <br>
 **Role protection** - You get protection from getting auto filled so you can play ur role 100% of the time.<br>
 **Surrender Exploit** - You start a surrender vote for your team, but you win the game if all 5 players vote yes (forces enemy nexus to explode) [DJ SONA / Spirit guard udyr / Yone only]<br>
-**Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get LvL 30 account then sell it so the client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b<br>
 **Buy champions** - you can buy any champion without loosing blue essence. <br>
 **Aram Boost** - [Patched in 11.4 - bypassed in 11.4] You can activate ARAM boost without having the RP balance for it. - All players get a random skin unlocked + bonus BE<br>
 **Duplication Exploit** - duplicates your loot, level 4 - 900 skins accounts & so on. Doesn't work on skin shards that are already mixed (no champion but full skin shard) <br>
