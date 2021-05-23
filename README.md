@@ -4,6 +4,7 @@ Riot brought decrypthed packets into scripting community yet again! <br>
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name. <br>
+**Free Dodge** - You can dodge a champ select by sending 2 API requests, one to cancel the queue and the second to send yourself into a TFT tutorial
 **Spectator Mode [Semi Fog of war]** - Lets you watch the game without delay. <br>
 **Cross Gifting** - You can gift to anyone in any server as long as it is a [Riot server] ex. NA can gift to EUNE player without 24h delay as long as he has correct amount of RP<br>
 **Bots** - You can set those 5 difficulties: Null (spawn standing afk) Intro (moves after 15 mins) Easy / medium / DOOM<br>
