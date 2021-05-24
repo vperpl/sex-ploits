@@ -1,6 +1,6 @@
 # sex-ploits - 25.05.2021
 Cool Fact: jannasharp.com never dies<br>
-Riot brought decrypthed packets into scripting community yet again! <br>
+We got undetected since 11.5 patch scripting platform!<br>
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name. <br>
