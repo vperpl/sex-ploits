@@ -29,7 +29,8 @@ Riot brought decrypthed packets into scripting community yet again! <br>
 **Activate PASS for free** - Ye, don't pay to earn toens, ust activate the stash :3 <br>
 **See enemies** - you can see enemies IN GAME real time update + you can see the picks in champion selects (what they pick in ban phase before they lock/their turn comes in) - tested in Darius Jungle Patch 11.8 - literaly picking darius going enemy jungle camping him 24/7 maing kids rage quit from jungle XDDDD (recommended external so you dont get ban risk)<br>
 **Riot+Tristana** - redeem Riot Girl Tristana (ye old, free skin) on any account (even lvl 1) if you don't have her, you will get champion + skin (1350be free yay)
-small video for unlocking champs& skins https://xan.pays.wtf/48XEUF67
+small video for unlocking champs& skins https://xan.pays.wtf/48XEUF67 <br>
+** ^ You can get riot ward this way too... XD (become rioter) ** <br>
 
 **TBA** - TBA<br>
 
