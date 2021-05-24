@@ -3,7 +3,7 @@ Cool Fact: jannasharp.com never dies<br>
 We got undetected since 11.5 patch scripting platform!<br>
 <h1>**Working**</h1><br>
 
-**Shop Exploit** - Lets you connect to any player's shop with just his summoner name. <br>
+**Shop Exploit** - Lets you connect to any player's shop with just his summoner name.[cached] <br>
 **Spectator Mode [Semi Fog of war]** - Lets you watch the game without delay. <br>
 **Cross Gifting** - You can gift to anyone in any server as long as it is a [Riot server] ex. NA can gift to EUNE player without 24h delay as long as he has correct amount of RP<br>
 **Bots** - You can set those 5 difficulties: Null (spawn standing afk) Intro (moves after 15 mins) Easy / medium / DOOM<br>
