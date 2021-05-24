@@ -1,5 +1,5 @@
-# sex-ploits - 24.05.2021
-Cool Fact: <br>
+# sex-ploits - 25.05.2021
+Cool Fact: jannasharp.com never dies<br>
 Riot brought decrypthed packets into scripting community yet again! <br>
 <h1>**Working**</h1><br>
 
