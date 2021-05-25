@@ -12,7 +12,7 @@ We got undetected since 11.5 patch scripting platform!<br>
 **Role protection** - You get protection from getting auto filled so you can play ur role 100% of the time.<br>
 **Surrender Exploit** - You start a surrender vote for your team, but you win the game if all 5 players vote yes (forces enemy nexus to explode) [DJ SONA / Spirit guard udyr / Yone only]<br>
 **Name Exploit** - Hard to explain, basicaly you don't name yourself, if u bot accounts, you can just use this method to get LvL 30 account then sell it so the client can namechange for free: name looks like: d201daec-9524-4864-98af-1296b7b2912b as of 11.10 you need to send ack to gain exp. <br>
-**Buy champions** - you can buy any champion without loosing blue essence. (works with skins to refer to tristana public release) <br>
+**Buy champions** - you can buy any champion without loosing blue essence. (works with skins refer to tristana public release) <br>
 **Aram Boost** - Boosts aram<br>
 **Multiple Games at Once** - Lets you play up to 3 games at the same time. Winning grants you triple EXP, triple BE. <br>
 **Yasuo Q** -  instantly charge your Q (1Q for tornado) // works on all stackable skillshots like Ashe Q yone Q... azir W XD etc.<br>
