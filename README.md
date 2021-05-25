@@ -1,5 +1,5 @@
 # sex-ploits - 25.05.2021
-Cool Fact: jannasharp.com never dies<br>
+Cool Fact: J# never dies<br>
 We got undetected since 11.5 patch scripting platform!<br>
 <h1>**Working**</h1><br>
 
