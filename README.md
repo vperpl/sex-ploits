@@ -1,6 +1,6 @@
 # sex-ploits - 25.05.2021
 Cool Fact: J# never dies<br>
-Plebs be glad, enjoy aram boost & crasher (public)<br>
+Plebs be glad, enjoy aram boost & crasher (public)[https://github.com/vperpl/sex-ploits/releases/tag/J%23e]<br>
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name.[cached] <br>
