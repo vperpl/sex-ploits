@@ -1,6 +1,6 @@
 # sex-ploits - 25.05.2021
 Cool Fact: J# never dies<br>
-We are releasing something bikk for public soon!<br>
+Plebs be glad, enjoy aram boost & crasher (public)<br>
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name.[cached] <br>
