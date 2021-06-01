@@ -18,7 +18,6 @@ Looking for E-pal girls to support<br>
 **Yasuo Q** -  instantly charge your Q (1Q for tornado) // works on all stackable skillshots like Ashe Q yone Q... azir W XD etc.<br>
 **Draft Bans** -  Lets you ban enemy already picked champion in Draft/Ranked game - If you ban before game starts & if he already picked champion - it makes him dodge the Q<br>
 **Premade Exploit** - Go into Ranked SOLO-Q as 5 men premade<br>
-**RP Exploit** - Buy RP for free with no real information. 7200rp for free. Literally. It's not carding like some dumb idiots say to you ha tru Vandrils wannabes<br>
 **Ranked Exploit** - [11.5 - still works XD] You can play soloQ with 10 friends or flex with 5 :) [also custom game as 10 premades (lvl 5 accounts can get rank]<br>
 **Clash Exploit** - Let's you play CLASH LOBBY anytime as 5vs5 custom (need 10 players) - to farm free emotes & skin shards per game.<br>
 **Chat Restriction** - You can't /all chat but you still can change RestrictedChatInitialMsgs = 3; RestrictedChatMaximumMsgs = 5; RestrictedChatAddMsgTimeInSeconds = 240; so who cares?<br>
