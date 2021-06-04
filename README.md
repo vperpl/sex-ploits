@@ -1,6 +1,6 @@
 # sex-ploits - 28.05.2021
 Cool Fact: J# never dies<br>
-Looking for E-pal girls to support<br>
+jannasharp.gg - looking for hot egirls, free stuff for cute ones<br>
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name.[cached] <br>
