@@ -1,6 +1,19 @@
 # sex-ploits - 28.05.2021
 Cool Fact: J# never dies<br>
-jannasharp.gg - looking for hot egirls, free stuff for cute ones<br>
+jannasharp.gg - Will be new soonTM<br>
+<br>
+<br>
+Hello,<br>
+
+Discord is focused on maintaining a safe and secure environment for our community. We've found your account to be in violation of our Terms of Service or Community Guidelines. As a result, we've disabled your account for the following reason:<br>
+<br>
+Your account participated in selling, promoting, or distributing cheats, hacks, or cracked accounts.<br>
+<br>
+Sincerely,
+Discord Trust & Safety
+
+<br>
+<br>
 <h1>**Working**</h1><br>
 
 **Shop Exploit** - Lets you connect to any player's shop with just his summoner name.[cached] <br>
