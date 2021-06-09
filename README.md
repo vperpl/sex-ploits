@@ -1,7 +1,7 @@
-# sex-ploits - 04.06.2021
+# sex-ploits - 09.06.2021
 Cool Fact: J# never dies<br>
 jannasharp.gg - Will be new soonTM<br>
-Since i got band, released everything public, gonna speed up something more profitable. all of the shit below is free on current discord for limited time <br>
+ETA: 07.07.2021<br>
 Invite only <br>
 
 <br>
