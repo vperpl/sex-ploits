@@ -1,8 +1,8 @@
 # sex-ploits - 09.06.2021
 Cool Fact: J# never dies<br>
-jannasharp.gg - Will be new soonTM<br>
+jannasharp.gg - Invite only atm.<br>
 ETA: 07.07.2021<br>
-Invite only <br>
+<br>
 
 <br>
 
