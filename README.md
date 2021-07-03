@@ -1,7 +1,10 @@
-# sex-ploits - 03.07.2021
-Cool Fact: J# never dies<br>
+# sex-ploits - 03.07.2021 - moved to JannaCentral
+Only Minecraft server here & proofs why riot hires imbeciles and focues on ethots more than game itself. <br>
+<br>
+Minecraft Discord server <br>
 https://discord.gg/uPbRhzGW6y <br>
-Join our minecraft server! (vanila)
+<br>
+<br>
 Fun Facts:<br>
 
 • Riot can't tell difference between skin changers & exploits XD <br>
