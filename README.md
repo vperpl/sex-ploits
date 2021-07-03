@@ -1,5 +1,5 @@
 # sex-ploits - 03.07.2021 - moved to JannaCentral
-Only Minecraft server here & proofs why riot hires imbeciles and focues on ethots more than game itself. <br>
+jannasharp.gg<br>
 <br>
 Minecraft Discord server <br>
 https://discord.gg/uPbRhzGW6y <br>
