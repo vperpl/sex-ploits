@@ -1,6 +1,6 @@
 # sex-ploits - 03.07.2021
 Cool Fact: J# never dies<br>
-jannasharp.gg - Invite only atm.<br>
+https://discord.gg/uPbRhzGW6y <br>
 Join our minecraft server! (vanila)
 Fun Facts:<br>
 
