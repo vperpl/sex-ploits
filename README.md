@@ -1,4 +1,9 @@
-# sex-ploits - 03.07.2021 - moved to JannaCentral
+# sex-ploits - 22.07.2022 - :^) 
+*NEW*
+Aram Boost works again.
+Unlock any champion/skin (refund api calls) - works again.
+Unlock ALL EMOTES - pernamently - 0 cost - exploit added.
+
 jannasharp.gg<br>
 <br>
 Minecraft Discord server <br>
