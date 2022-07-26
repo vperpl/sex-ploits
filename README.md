@@ -1,7 +1,7 @@
 #26.07.2022
 <br>
 • Chessbot working (not tft just regular chess - free)<br>
-• Araboost working <br>
+• Aramboost working <br>
 • Janna Extension avaiable for more variety of users now [Jannasharp.gg] <br>
 • TFT bot pixel updated <br>
 • Free Discord nitro method (do not abuse cuse high ban risk) <br>
