@@ -11,3 +11,6 @@
 • Lobby Crasher <br>
 • In Game Whole game Crasher <br>
 • In Game - Choose who to crash - type /r [nick] to crash that one guy forcing him to reconnect (gives like 30-40second to kill him in lane) <br>
+<br><br>
+https://discord.gg/96dBMMrjPU <br>
+UwU
