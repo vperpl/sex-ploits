@@ -1,16 +1,7 @@
-#26.07.2022
+#18.08.2022
 <br>
-• Chessbot working (not tft just regular chess - free)<br>
-• Aramboost working <br>
-• Janna Extension avaiable for more variety of users now [Jannasharp.gg] <br>
-• TFT bot pixel updated <br>
-• Free Discord nitro method (do not abuse cuse high ban risk) <br>
-• Snapchat score booster - (do not go over 100.000 daily) <br>
-• Unlock any skin - refund method - (public shit no bans use at own risk tho) <br>
-• Unlock any champion & skin & emojis pernamently <br>
-• Lobby Crasher <br>
-• In Game Whole game Crasher <br>
-• In Game - Choose who to crash - type /r [nick] to crash that one guy forcing him to reconnect (gives like 30-40second to kill him in lane) <br>
+•Added External simple Wallhack = Trigger bot for Valorant- was being tested 2 weeks no ban so pushed it public.
+<br>
 <br><br>
 https://discord.gg/96dBMMrjPU <br>
 UwU
