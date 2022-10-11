@@ -1,7 +1,7 @@
-#18.08.2022
+#11.10.2022
 <br>
-•Added External simple Wallhack + Trigger bot for Valorant- was being tested 2 weeks no ban so pushed it public.
+•Added private league platform, no ban since 2 seasons 100€ join / 100€ monthly
 <br>
 <br><br>
-https://discord.gg/96dBMMrjPU <br>
+Contact me via DM <br>
 UwU
