@@ -1,7 +1,7 @@
-#19.10.2022
+#06.12.2022
 <br>
-•BikkSoon
+•We finally released it.
 <br>
 <br><br>
-OwO<br>
-UwU
+Enjoy till it lasts<br>
+Supports League & Valorant
