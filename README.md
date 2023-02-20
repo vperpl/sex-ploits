@@ -1,6 +1,7 @@
-#05.02.2023
+#20.02.2023
 <br>
-Ranked Exploit is back hello packman do something as its no longer fun seeing empty lobbies climbing ladders.
+Ranked Exploit is back hello packman do something as its no longer fun seeing empty lobbies climbing ladders. <br>
+c`mun it even works in valorant are u rly sleeping? <br>
 
 Team Exploit - you can kill your allies for exp boost & gold. Penta on fountain = lvl  2 lane <br>
 (game_announcement_OnChampionKill_ally_you)<br>
